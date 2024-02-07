@@ -1,7 +1,3 @@
 # Python-Projects
 
-#file6732852453
-
-It is a markdown file in this repository.
-
-Demo.
+This repository contains all the fun and interesting Python projects I have made.
